@@ -15,13 +15,13 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['51993047526', 'Alexnn', true],
-  ['51993047526', 'Alexnn', true],
-  ['51993047526', 'Alexnn', true],
-  ['51993047526'],
-  ['51993047526'],
-  ['51993047526'],
-  ['51993047526'],
+  ['51924636698', 'Luz', true],
+  ['51924636698', 'luz', true],
+  ['51924636698', 'luz', true],
+  ['51924636698'],
+  ['51924636698'],
+  ['51924636698'],
+  ['51924636698'],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -52,12 +52,12 @@ global.jadi = 'BOSSBOTJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '@alexnsnk7'
-global.botname = '@alexnsnk7'
+global.packname = '𝘽𝙤𝙩𝙠𝙖𝙩𝙡𝙪'
+global.botname = '𝘽𝙤𝙩𝙠𝙖𝙩𝙡𝙪'
 global.wm = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘉𝘰𝘵'
-global.author = '@alexnsnk7'
+global.author = '𝘽𝙤𝙩𝙠𝙖𝙩𝙡𝙪'
 global.dev = '𝙉𝙤𝙩 𝙈𝙮 𝙋𝙧𝙤𝙡𝙚𝙢𝙖'
-global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 @alexnsnk7'
+global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘽𝙤𝙩𝙠𝙖𝙩𝙡𝙪'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -67,12 +67,12 @@ global.avatar = fs.readFileSync('./src/img/avatar_contact.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
-global.channel = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
-global.channel2 = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.grupo = 'https://chat.whatsapp.com/BthupxYYjmiCedl6u4ZtOj'
+global.channel = 'https://chat.whatsapp.com/BthupxYYjmiCedl6u4ZtOj'
+global.channel2 = 'https://chat.whatsapp.com/BthupxYYjmiCedl6u4ZtOj'
 global.md = 'https://wa.me/qr/PAOHAKCEHGUXN1'
-global.ig = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
-global.tiktok = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.ig = 'https://chat.whatsapp.com/BthupxYYjmiCedl6u4ZtOj'
+global.tiktok = 'https://chat.whatsapp.com/BthupxYYjmiCedl6u4ZtOj'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

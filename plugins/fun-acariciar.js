@@ -1,4 +1,4 @@
-//Codígo de BOSSBOT
+//Codígo de KATLUBOT
 
 import fs from 'fs';
 import path from 'path';
